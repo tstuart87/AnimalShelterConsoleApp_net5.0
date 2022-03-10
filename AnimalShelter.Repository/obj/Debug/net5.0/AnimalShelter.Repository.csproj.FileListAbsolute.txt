@@ -1,0 +1,12 @@
+C:\Projects\AnimalShelterNET5\AnimalShelter.Repository\bin\Debug\net5.0\AnimalShelter.Repository.deps.json
+C:\Projects\AnimalShelterNET5\AnimalShelter.Repository\bin\Debug\net5.0\AnimalShelter.Repository.dll
+C:\Projects\AnimalShelterNET5\AnimalShelter.Repository\bin\Debug\net5.0\ref\AnimalShelter.Repository.dll
+C:\Projects\AnimalShelterNET5\AnimalShelter.Repository\bin\Debug\net5.0\AnimalShelter.Repository.pdb
+C:\Projects\AnimalShelterNET5\AnimalShelter.Repository\obj\Debug\net5.0\AnimalShelter.Repository.csproj.AssemblyReference.cache
+C:\Projects\AnimalShelterNET5\AnimalShelter.Repository\obj\Debug\net5.0\AnimalShelter.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AnimalShelterNET5\AnimalShelter.Repository\obj\Debug\net5.0\AnimalShelter.Repository.AssemblyInfoInputs.cache
+C:\Projects\AnimalShelterNET5\AnimalShelter.Repository\obj\Debug\net5.0\AnimalShelter.Repository.AssemblyInfo.cs
+C:\Projects\AnimalShelterNET5\AnimalShelter.Repository\obj\Debug\net5.0\AnimalShelter.Repository.csproj.CoreCompileInputs.cache
+C:\Projects\AnimalShelterNET5\AnimalShelter.Repository\obj\Debug\net5.0\AnimalShelter.Repository.dll
+C:\Projects\AnimalShelterNET5\AnimalShelter.Repository\obj\Debug\net5.0\ref\AnimalShelter.Repository.dll
+C:\Projects\AnimalShelterNET5\AnimalShelter.Repository\obj\Debug\net5.0\AnimalShelter.Repository.pdb
